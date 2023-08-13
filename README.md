@@ -1,2 +1,2 @@
 # First_Amit_DataAnalysisProject_python
-Python project - Analyze Diwali sales data to improve customer experience and sales
+Python_DataAnalysis_project - Analyze Diwali sales data to improve customer experience and sales
